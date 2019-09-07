@@ -13,7 +13,12 @@
 
 ##RUNNING
 
-1. Navigate to output folder
+1. Activate virtual environment
+```
+cd venv/bin
+source activate
+```
+2. Navigate to output folder
 ```cd naturalia/naturalia/output```
-2. Run the script
+3. Run the script
 ```scrapy crawl spider -t csv -o data.csv```
