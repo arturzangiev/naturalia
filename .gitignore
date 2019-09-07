@@ -1,2 +1,7 @@
 .idea
 venv
+naturalia/naturalia/__pycache__/__init__.cpython-37.pyc
+naturalia/naturalia/__pycache__/settings.cpython-37.pyc
+naturalia/naturalia/spiders/__pycache__/__init__.cpython-37.pyc
+naturalia/naturalia/spiders/__pycache__/spider.cpython-37.pyc
+.vscode/settings.json
