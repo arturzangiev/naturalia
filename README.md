@@ -8,7 +8,12 @@
 ```git clone https://url_of_project```
 5. Create virtual environment in the project folder
 ```virtualenv venv```
-6. Install all dependencies from requirements.txt
+6. Activate virtual environment
+```
+cd venv/bin
+source activate
+```
+7. Install all dependencies from requirements.txt
 ```pip install -r requirements.txt```
 
 ##RUNNING
